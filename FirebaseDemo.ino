@@ -34,8 +34,8 @@ void setup() {
 void loop() {
   Serial.println("Enviando datos ...");
   Firebase.setBool("encendido", true);
-  Serial.print("Leyendo \"nato\": ");
-  Serial.println(Firebase.getBool("nato"));
+  Serial.print("Leyendo \"tiempo\": ");
+  Serial.println(Firebase.getInt("tiempo"));
   delay (1000);
 
   if (Firebase.failed()) {
