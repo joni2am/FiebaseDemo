@@ -6,8 +6,8 @@
 // Set these to run example.
 #define FIREBASE_HOST "helloled-78e56.firebaseio.com"
 #define FIREBASE_AUTH "uJxoIO2Untv8ozspgllLaEeMsEYO97gnxzk59vr5"
-#define WIFI_SSID "the-net"
-#define WIFI_PASSWORD "the-password"
+#define WIFI_SSID "InalambricaUdeM"
+#define WIFI_PASSWORD ""
 
 int hora = 0;
 float horas = 0;
