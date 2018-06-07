@@ -4,8 +4,8 @@
 #include <FirebaseArduino.h> // Conexión con la base de datos
 
 // Información para conectarse a una red inalámbrica
-#define WIFI_SSID "" // Coloque entre las comillas el nombre de la red ianlámbrica
-#define WIFI_PASSWORD "" // Coloque entre las comillas la contraseña de la red ianlámbrica
+#define WIFI_SSID "" // Coloque entre las comillas el nombre de la red inalámbrica
+#define WIFI_PASSWORD "" // Coloque entre las comillas la contraseña de la red inalámbrica
 
 // Información para conectarse a la base de datos en Firebase
 #define FIREBASE_HOST "" // Coloque entre las comillas el enlace a la base de datos
